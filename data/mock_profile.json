@@ -1,0 +1,153 @@
+{
+  "public_identifier": "jordan-avery-dev",
+  "first_name": "Jordan",
+  "last_name": "Avery",
+  "full_name": "Jordan Avery",
+  "follower_count": 4210,
+  "occupation": "VP of Engineering at Northwind Analytics. Building data platforms and mentoring engineering teams.",
+  "headline": "VP of Engineering at Northwind Analytics. Building data platforms and mentoring engineering teams.",
+  "summary": "I'm a systems-minded engineering leader with a track record of taking data platforms from prototype to production scale. My focus is on building small, high-trust teams that ship reliable software and grow into technical leaders themselves.\n\nI care about clear architecture, honest postmortems, and giving engineers room to own problems end to end. Outside of shipping product, I spend time mentoring early-career engineers and speaking at local meetups about distributed systems and data engineering.\n\nSpecialties: distributed systems, data platforms, cloud infrastructure, and engineering leadership.",
+  "country": "US",
+  "country_full_name": "United States",
+  "city": "Austin",
+  "state": "Texas",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "Northwind Analytics",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/northwind-analytics",
+      "title": "VP of Engineering",
+      "description": "Leading the platform and data engineering organization. Responsible for the team building Northwind's real-time analytics pipeline, serving thousands of enterprise customers.\n\nGrew the engineering team from 8 to 40, established an on-call and incident review process, and led the migration from a monolithic service to an event-driven microservices architecture.",
+      "location": "Austin, Texas, United States"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2021
+      },
+      "company": "Cascade Data Systems",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/cascade-data-systems",
+      "title": "Senior Staff Engineer",
+      "description": "Designed and built the company's first streaming data pipeline, processing over 2 billion events per day. Led the adoption of infrastructure-as-code across the engineering org and mentored a team of six engineers.",
+      "location": "Denver, Colorado, United States"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2016
+      },
+      "company": "Briarcliff Software",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/briarcliff-software",
+      "title": "Software Engineer",
+      "description": "Built backend services for a B2B SaaS product used by logistics companies. Focused on API design, database performance, and reliability.",
+      "location": "Chicago, Illinois, United States"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2012
+      },
+      "field_of_study": "Computer Science",
+      "degree_name": "BSc",
+      "school": "University of Illinois",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-illinois",
+      "description": null,
+      "grade": null,
+      "activities_and_societies": "ACM Chapter, Competitive Programming Club"
+    }
+  ],
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "accomplishment_organisations": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "ends_at": null,
+      "org_name": "Austin Data Engineering Meetup",
+      "title": "Organizer",
+      "description": null
+    }
+  ],
+  "accomplishment_publications": [
+    {
+      "name": "Scaling Event-Driven Architectures: Lessons from Production",
+      "publisher": "InfoQ",
+      "published_on": {
+        "day": 14,
+        "month": 4,
+        "year": 2022
+      },
+      "description": "An article covering the tradeoffs and failure modes encountered while migrating a monolithic analytics platform to an event-driven architecture.",
+      "url": "https://www.infoq.com/articles/scaling-event-driven-architectures"
+    }
+  ],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": null,
+      "title": "OpenPipeline",
+      "description": "An open-source toolkit for building declarative streaming data pipelines. Started as an internal tool and grew into a project with contributors across several companies.",
+      "url": "https://github.com/example/openpipeline"
+    }
+  ],
+  "connections": 3120,
+  "recommendations": [
+    "Priya Nair\n\nI worked with Jordan for three years on the platform team at Cascade Data Systems. Jordan has a rare combination of deep technical skill and genuine care for the people on the team. Every design review became a learning opportunity, and Jordan was always the first to dig into a production incident and turn it into a lesson for the whole org.",
+    "Marcus Chen\n\nJordan hired me as a junior engineer and pushed me to grow faster than I thought possible. Clear feedback, high standards, and always available when something broke at 2am. One of the best managers I've had."
+  ],
+  "skills": [
+    "Distributed Systems",
+    "Data Engineering",
+    "Cloud Computing",
+    "Python",
+    "Kafka",
+    "Kubernetes",
+    "System Design",
+    "Engineering Leadership",
+    "API Design",
+    "PostgreSQL",
+    "Infrastructure as Code",
+    "Mentoring",
+    "Event-Driven Architecture",
+    "AWS",
+    "CI/CD"
+  ],
+  "inferred_salary": {
+    "min": null,
+    "max": null
+  }
+}
